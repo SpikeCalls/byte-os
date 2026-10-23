@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "byteos"
-version = "0.1.0"
+version = "0.2.0"
 description = "an operating system for a dog that wants things"
 readme = "README.md"
 license = { text = "MIT" }
@@ -17,3 +17,6 @@ byte = "byteos.cli:main"
 
 [tool.setuptools]
 packages = ["byteos"]
+
+[tool.setuptools.package-data]
+byteos = ["persona.json"]

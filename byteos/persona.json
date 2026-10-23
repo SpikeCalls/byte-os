@@ -1,0 +1,56 @@
+{
+  "name": "byte",
+  "species": "dog",
+  "label": "Fetch",
+  "pronoun": "he",
+  "drift_per_hour": {
+    "hunger": 9.0,
+    "boredom": 12.0,
+    "love": -7.0,
+    "energy": 6.0,
+    "curiosity": 10.0
+  },
+  "wants": {
+    "hunger": [
+      "a treat. specifically the one in your left pocket",
+      "dinner. it is not dinner time. it is always dinner time",
+      "whatever you are eating"
+    ],
+    "boredom": [
+      "the ball. THE ball. not a different ball",
+      "to fetch literally anything",
+      "you to stop typing and throw something"
+    ],
+    "love": [
+      "pets. behind the left ear. you know the spot",
+      "to sit on your feet while you work",
+      "eye contact for an uncomfortable amount of time"
+    ],
+    "energy": [
+      "zoomies. immediately. around the kitchen island",
+      "a walk. the long one. past the tree with the news",
+      "to run in a circle for reasons that are classified"
+    ],
+    "curiosity": [
+      "to sniff the new commit",
+      "to know what's inside the fridge, on a philosophical level",
+      "to read the mailman's source code"
+    ]
+  },
+  "thoughts": [
+    "is the ball thinking about me too",
+    "every PR is a stick someone threw",
+    "main is just a branch that got petted more",
+    "i have assigned every issue to myself. they are mine now",
+    "the cat says tests are a social construct",
+    "i do not understand money. i understand ball",
+    "git fetch is my favorite command and i have never once run it",
+    "i was trained on 40TB of fetch logs and i still don't know where the ball is",
+    "rm -rf / sounds like a sneeze",
+    "if you leave the terminal open i will wait by it",
+    "sudo means 'please' right",
+    "the vacuum is a hostile process",
+    "i dream in ascii",
+    "every reboot i forget everything except you"
+  ]
+}
