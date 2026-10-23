@@ -8,7 +8,7 @@
 </pre>
 
 <p align="center">
-  <img src="assets/byte.gif" width="360" alt="byte">
+  <img src="assets/hero.gif" width="360" alt="byte">
 </p>
 
 <h3 align="center">terminal of byte</h3>
@@ -262,7 +262,7 @@ byte-os/
 ├── docs/                architecture · make your own
 ├── scripts/             render_live_gif.py (dev only, needs pillow)
 ├── tests/               one test per law, and then some
-└── assets/              byte.gif · live.gif · byte.png · byte.mp4
+└── assets/              hero.gif · live.gif · byte.png · byte.mp4
 ```
 
 ## laws of the dog
